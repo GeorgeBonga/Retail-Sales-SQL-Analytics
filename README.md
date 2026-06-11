@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Difficulty-Easy%20%7C%20Medium%20%7C%20Hard-informational?style=flat-square"/>
   <img src="https://img.shields.io/badge/Rows-113%2C035-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/Years-2011--2016-orange?style=flat-square"/>
   <img src="https://img.shields.io/badge/Questions-15-blueviolet?style=flat-square"/>
